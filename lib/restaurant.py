@@ -108,7 +108,7 @@ def main():
     review2 = Review(customer2, restaurant2, 5)
 
     # Example usage of the methods
-    print(customer1.full_name())  # Output: John Doe
+    print(customer1.full_name())  # Output: Shakur Bol
     print(restaurant2.average_star_rating())  # Output: 5.0
     print(customer2.num_reviews())  # Output: 1
 
