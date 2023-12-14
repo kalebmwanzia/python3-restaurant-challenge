@@ -98,8 +98,8 @@ class Review:
     
 def main():
     # Instantiate some customers, restaurants, and reviews
-    customer1 = Customer("shakur", "Bol")
-    customer2 = Customer("Hennessy", "Emma")
+    customer1 = Customer("Shakur", "Bol")
+    customer2 = Customer("Sassie", "Sith")
 
     restaurant1 = Restaurant("Tasty Treats")
     restaurant2 = Restaurant("Burger Palace")
